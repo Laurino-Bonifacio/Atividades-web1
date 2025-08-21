@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>Atividadee 3</title>
+    </head>
+    <body>
+        <main>
+            <selction>
+                <H1>SELEÇÃO 1.1 </H2>
+            </selction>
+            <selection>
+                <h2>seleção 2</H2>
+                <selection>
+                    <h1>seleção 2.1</h1>
+                </selection>
+            </selection>
+
+        </main>
+    </body>
+
+</html>
